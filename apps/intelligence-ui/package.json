@@ -6,8 +6,15 @@
     "name": "intelligence-ui"
   },
   "dependencies": {
+    "@hookform/resolvers": "^5.0.0",
+    "@testing-library/jest-dom": "^6.6.3",
     "next": "~15.1.4",
     "react": "19.0.0",
-    "react-dom": "19.0.0"
+    "react-dom": "19.0.0",
+    "react-hook-form": "^7.55.0",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.6.3"
   }
 }

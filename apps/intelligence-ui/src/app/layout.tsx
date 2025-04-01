@@ -1,4 +1,3 @@
-import './global.css';
 
 export const metadata = {
   title: 'Welcome to intelligence-ui',
