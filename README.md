@@ -4,7 +4,7 @@ nextjs, react hook form, zod, css modules and unit test
 
 # How to Start 
 
-1. ```yarn install`` 
+1. ```yarn install```
 
 # Run Dev Environment 
 
