@@ -1,4 +1,4 @@
-import SemanticForm from "./components/form/check-version-form/check-version.form.component";
+import SemanticForm from "./components/form/check-version/check-version.form.component";
 
 export default function Index() {
   /*
